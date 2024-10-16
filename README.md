@@ -1,8 +1,8 @@
-# Expense Tracker Application
+# FinTrack Application
 
 ## Overview
 
-This Expense Tracker Application is a web-based tool developed using the Flask framework in Python. It allows users to track their daily expenses, categorize them, and visualize their spending habits over time.
+This Application is a web-based tool developed using the Flask framework in Python. It allows users to track their daily expenses, categorize them, and visualize their spending habits over time.
 
 ## Features
 
