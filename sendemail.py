@@ -2,7 +2,7 @@ import smtplib
 import sendgrid
 import os
 from sendgrid.helpers.mail import Mail, Email, To, Content
-SUBJECT = "FinTrack"
+SUBJECT = "expense tracker"
 s = smtplib.SMTP('smtp.gmail.com', 587)
 
 def sendmail(TEXT,email):
